@@ -1,0 +1,8 @@
+boto3==1.38.38
+pandas==2.3.0
+wheel==0.45.1
+apache-airflow==3.0.2
+spacy==3.8.7
+setuptools==80.9.0
+apache-airflow[amazon]
+psycopg2-binary==2.9.10
